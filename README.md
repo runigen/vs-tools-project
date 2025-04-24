@@ -1,4 +1,4 @@
-# vs-tool-project
+# vs-tools-project
 비상 스마트 수업도구 FE Root 
 
 1. 모든 도구 submodule 등록
