@@ -1,0 +1,42 @@
+[submodule "vs-tools-attention"]
+	path = vs-tools-attention
+	url = git@github.com:runigen/vs-tools-attention.git
+[submodule "vs-tools-black"]
+	path = vs-tools-black
+	url = git@github.com:runigen/vs-tools-black.git
+[submodule "vs-tools-characters"]
+	path = vs-tools-characters
+	url = git@github.com:runigen/vs-tools-characters.git
+[submodule "vs-tools-drawing"]
+	path = vs-tools-drawing
+	url = git@github.com:runigen/vs-tools-drawing.git
+[submodule "vs-tools-group"]
+	path = vs-tools-group
+	url = git@github.com:runigen/vs-tools-group.git
+[submodule "vs-tools-home"]
+	path = vs-tools-home
+	url = git@github.com:runigen/vs-tools-home.git
+[submodule "vs-tools-music"]
+	path = vs-tools-music
+	url = git@github.com:runigen/vs-tools-music.git
+[submodule "vs-tools-mylink"]
+	path = vs-tools-mylink
+	url = git@github.com:runigen/vs-tools-mylink.git
+[submodule "vs-tools-pencil"]
+	path = vs-tools-pencil
+	url = git@github.com:runigen/vs-tools-pencil.git
+[submodule "vs-tools-presentation"]
+	path = vs-tools-presentation
+	url = git@github.com:runigen/vs-tools-presentation.git
+[submodule "vs-tools-qr"]
+	path = vs-tools-qr
+	url = git@github.com:runigen/vs-tools-qr.git
+[submodule "vs-tools-seat"]
+	path = vs-tools-seat
+	url = git@github.com:runigen/vs-tools-seat.git
+[submodule "vs-tools-stopwatch"]
+	path = vs-tools-stopwatch
+	url = git@github.com:runigen/vs-tools-stopwatch.git
+[submodule "vs-tools-timer"]
+	path = vs-tools-timer
+	url = git@github.com:runigen/vs-tools-timer.git
